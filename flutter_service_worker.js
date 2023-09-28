@@ -87,7 +87,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e5895025c6dc64e4414990e313f64d8
 "assets/assets/images/zingHrLogo.png": "27ffc11c260400c346182867da9dedb7",
 "assets/FontManifest.json": "72b782169d1efdd0e225576e063fb479",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "cbaf746505ed2cf638a21ab94f482766",
+"assets/NOTICES": "b45d00cd4f4550d489596b24b332e5e7",
 "assets/packages/community_material_icon/fonts/materialdesignicons-webfont.ttf": "174c02fc4609e8fc4389f5d21f16a296",
 "assets/packages/country_pickers/assets/ad.png": "8312ea200df9dd539e27c116939db42c",
 "assets/packages/country_pickers/assets/ae.png": "7ff210c9d922e6047b30241b5176948b",
@@ -361,9 +361,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e5895025c6dc64e4414990e313f64d8
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "32a39068e83a9290a3ebb18c805a6018",
-"/": "32a39068e83a9290a3ebb18c805a6018",
-"main.dart.js": "8122e17e40e3cab0c4191ee603c02231",
+"index.html": "c752664945317abaa5d1891982eee924",
+"/": "c752664945317abaa5d1891982eee924",
+"main.dart.js": "0ba9bf7de18266a8e6845730870f2bf4",
 "manifest.json": "49b44a351ce78b2f8bbad1e307f52b84",
 "version.json": "f1a07cf1d3dd7dfd9666920b47358d5c"};
 // The application shell files that are downloaded before a service worker can
