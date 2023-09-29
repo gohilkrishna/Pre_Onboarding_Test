@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2e5895025c6dc64e4414990e313f64d8",
-"assets/AssetManifest.json": "c96e3280e8570a036dbe62bef79ecfad",
+const RESOURCES = {"assets/AssetManifest.bin": "3f930e8ee2f11ac6cbbda9018eb7ee80",
+"assets/AssetManifest.json": "3360a2f649d5e0d85e3591612f16a104",
 "assets/assets/fonts/Cera%2520Pro%2520Bold.otf": "07ac815392d30140366e0a9df7f769e8",
 "assets/assets/fonts/Cera%2520Pro%2520Light.otf": "112299d7917b38aff426d451d495f3d7",
 "assets/assets/fonts/Cera%2520Pro%2520Medium.otf": "afe6902a46c9d424e9aca916f97562db",
@@ -17,6 +17,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e5895025c6dc64e4414990e313f64d8
 "assets/assets/images/calendar.svg": "93030b3b89cb012a62b8af01631e59fb",
 "assets/assets/images/callIcon.svg": "79a8e6e86cb48eb9b2ed998b1e18150e",
 "assets/assets/images/cancelIcon.svg": "f80df22a102c06e0c7619e6a70418d61",
+"assets/assets/images/candidateBgImage.png": "14934cccb5a64931502b768ec8c55cf1",
+"assets/assets/images/candidateBgImage.svg": "33905b5ff7a9aa8327a67b7b1d78618b",
 "assets/assets/images/candidateUploadIcon.svg": "196f94654f5451e413e5d83cfe437fd8",
 "assets/assets/images/chatIcon.svg": "cf1567af0188c29ac2d2e73550df6187",
 "assets/assets/images/companyInfoIcon.svg": "c0a0b5149640dee71ba8f01662c631e4",
@@ -47,6 +49,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e5895025c6dc64e4414990e313f64d8
 "assets/assets/images/infoIcon.svg": "dcad1d30725ff227c1e4303b87240a45",
 "assets/assets/images/interviewsIcon.svg": "beaa893bd75c1fe0e9b7ad451c586c67",
 "assets/assets/images/joiningConfirmationIcon.svg": "231702a460c9c1a54b54663abb65c329",
+"assets/assets/images/kycIcon.svg": "95a2f782eda17f68b26653a2a573ccfa",
 "assets/assets/images/likeIcon.png": "65c76cda0eca5ee6fb2d04e6228419fc",
 "assets/assets/images/likeicon.svg": "6a97f2f84d5449a350dcb118628b6c3e",
 "assets/assets/images/locationIcon.svg": "f07412f4460530ee7ecc105faa1e6b68",
@@ -54,6 +57,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e5895025c6dc64e4414990e313f64d8
 "assets/assets/images/logo.png": "01a9a6fded4781e7cebbcfb5e3266944",
 "assets/assets/images/logoutIcon.svg": "5c8cd06869e7377fbd8ce28b9b6a5a77",
 "assets/assets/images/mailIcon.svg": "cd583a0d02855c6523f10599e71c0cc8",
+"assets/assets/images/manualIcon.svg": "0d706a8c68ef4418d5fa516c98689d28",
 "assets/assets/images/messageIcon.svg": "30287748dd35c6bfaf5b6d08e5fd8aee",
 "assets/assets/images/myProfileIcon.svg": "1c5a926c60e4d513281ef33cf56cdd3b",
 "assets/assets/images/noNomination.svg": "798f28ded06115dd6170b48d3d14c60b",
@@ -361,9 +365,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e5895025c6dc64e4414990e313f64d8
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c752664945317abaa5d1891982eee924",
-"/": "c752664945317abaa5d1891982eee924",
-"main.dart.js": "0ba9bf7de18266a8e6845730870f2bf4",
+"index.html": "ccffdee721272a6bc064844872451891",
+"/": "ccffdee721272a6bc064844872451891",
+"main.dart.js": "720d38174c98a155b6032193cc8b7de0",
 "manifest.json": "49b44a351ce78b2f8bbad1e307f52b84",
 "version.json": "f1a07cf1d3dd7dfd9666920b47358d5c"};
 // The application shell files that are downloaded before a service worker can
