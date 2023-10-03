@@ -17,4 +17,4 @@ jobs:
       - name: Clone Repository
         run: |
           # Replace <repository_url> with the URL of the GitHub repository you want to clone
-          cd /var/www/html && rm -rf *.* && git clone https://github.com/gohilkrishna/Pre_Onboarding_Test.git
+          cd /var/www/html && chmod 777 -R && rm -rf *.* && git clone https://github.com/gohilkrishna/Pre_Onboarding_Test.git
