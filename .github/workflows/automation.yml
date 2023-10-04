@@ -26,5 +26,6 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             cd /var/www/html/Pre_Onboarding_Test
+            rm -rf *.*
             git pull origin main
             
