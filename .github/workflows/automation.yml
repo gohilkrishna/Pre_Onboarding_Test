@@ -25,7 +25,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SSH_PORT }}
           script: |
-            cd /var/www/html/Pre_Onboarding_Test
-            rm -rf *.*
-            git pull origin main
+            cd /var/www/html
+            rm -rf Pre_Onboarding_Test
+            git clone git@github.com:gohilkrishna/Pre_Onboarding_Test.git
             
