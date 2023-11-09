@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9f3fc96b5cf640db8e315938d6ee03d6",
-"assets/AssetManifest.json": "241eb6add25816cc61460273f9a7bf28",
+const RESOURCES = {"assets/AssetManifest.bin": "d000f24b8fa5f47fb504265d65edcf3f",
+"assets/AssetManifest.json": "fb939a8962f6dc40f6a5041e6d454da5",
 "assets/assets/fonts/Cera%2520Pro%2520Bold.otf": "07ac815392d30140366e0a9df7f769e8",
 "assets/assets/fonts/Cera%2520Pro%2520Light.otf": "112299d7917b38aff426d451d495f3d7",
 "assets/assets/fonts/Cera%2520Pro%2520Medium.otf": "afe6902a46c9d424e9aca916f97562db",
@@ -73,6 +73,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f3fc96b5cf640db8e315938d6ee03d6
 "assets/assets/images/offerIcon.svg": "49dbf3b0793f3859bc4ed81344919ed5",
 "assets/assets/images/offerLetterAcceptanceIcon.svg": "3d18e4133c08af39c665637ac8a18531",
 "assets/assets/images/offerLetterIcon.svg": "1d5abc352fc602cec2209e3d16ad7426",
+"assets/assets/images/oopsImage.svg": "ca507417fe1ef53273eafca6353478e3",
 "assets/assets/images/pendingIcon.svg": "d4c863415b28f4d75d422e332d22432f",
 "assets/assets/images/postJoiningChecklistIcon.svg": "3dc13de427fdaa6055787b13ecd3cb3b",
 "assets/assets/images/postJoiningVerificationIcon.svg": "f51b799638035381400b96fcfd14c142",
@@ -90,6 +91,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f3fc96b5cf640db8e315938d6ee03d6
 "assets/assets/images/screeningIcon.svg": "f2bde51918197d76ab04377f9429fbec",
 "assets/assets/images/searchIcon.svg": "1b8dcc5c631cbcd94793c54ac99220ba",
 "assets/assets/images/sendNotificationIcon.svg": "10ca62872b849a75bd41549ced9a2532",
+"assets/assets/images/settingIcon.svg": "da7297bc0c386df438fc7eb279bfb978",
 "assets/assets/images/shareIcon.svg": "8343f57b752bd20910fb3f3c5cdea8a0",
 "assets/assets/images/shortlistedIcon.svg": "a9e9883a0dc11d2e3d0864cc59cf9da3",
 "assets/assets/images/splashBgImg.png": "5414cd5b439505df9cac0f448581f5a1",
@@ -108,7 +110,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f3fc96b5cf640db8e315938d6ee03d6
 "assets/assets/images/zingHrLogo.png": "27ffc11c260400c346182867da9dedb7",
 "assets/FontManifest.json": "72b782169d1efdd0e225576e063fb479",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "cbf3878e2df58db97f92beea07e28e15",
+"assets/NOTICES": "b712f388c8ce235ebcf3cfc8b9adaf90",
 "assets/packages/community_material_icon/fonts/materialdesignicons-webfont.ttf": "174c02fc4609e8fc4389f5d21f16a296",
 "assets/packages/country_pickers/assets/ad.png": "8312ea200df9dd539e27c116939db42c",
 "assets/packages/country_pickers/assets/ae.png": "7ff210c9d922e6047b30241b5176948b",
@@ -382,9 +384,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "9f3fc96b5cf640db8e315938d6ee03d6
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c5127598be7e7eba446bbbdb1f8a3615",
-"/": "c5127598be7e7eba446bbbdb1f8a3615",
-"main.dart.js": "5ad342ef307da17ee92736acf839beb5",
+"index.html": "59567abe35246165aa636ea9eef34e3e",
+"/": "59567abe35246165aa636ea9eef34e3e",
+"main.dart.js": "0600e9dd81fb402a407a9468b24c722f",
 "manifest.json": "49b44a351ce78b2f8bbad1e307f52b84",
 "version.json": "f1a07cf1d3dd7dfd9666920b47358d5c"};
 // The application shell files that are downloaded before a service worker can
